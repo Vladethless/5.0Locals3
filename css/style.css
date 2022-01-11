@@ -12453,8 +12453,7 @@ input.cart-plus-minus-box {
   .ltn__call-to-action-4 .call-to-action-inner-4 {
     position: relative;
     z-index: 99; }
-    .ltn__call-to-action-4 .call-to-action-inner-4 h2 {
-      font-style: italic; }
+    .ltn__call-to-action-4 .call-to-action-inner-4 h2 { }
     .ltn__call-to-action-4 .call-to-action-inner-4 .h1 {
       font-size: 50px; }
     .ltn__call-to-action-4 .call-to-action-inner-4 p {
